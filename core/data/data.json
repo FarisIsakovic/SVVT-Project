@@ -1,0 +1,39 @@
+{
+    "url": {
+        "home_page": "https://fkzeljeznicar.ba/",
+        "membership": "https://fkzeljeznicar.ba/clanarina/#/obnovi-clanarinu",
+        "shop": "https://shop.fkzeljeznicar.ba/",
+        "tv":"https://1921.ba/"
+    }, 
+    "header": {
+        "message": "Osnivanje kluba"
+    },
+    "data":{
+        "name":"Faris",
+        "surname":"Iskaović",
+        "number": "1921"
+    },
+    "dataShop":{
+        "email":"faris.isakovic@stu.ibu.edu.ba",
+        "password":"ZeljojeNajjaci"
+    },
+    "team":{
+        "name":"Ajdin"
+    },
+    "page":{
+        "title":"FK Željezničar – Zvanična internet stranica"
+    },
+    "news":{
+        "new":"Novosti"
+    },
+    "tv1921":{
+        "title":"Naš Željezničar “gostuje” u Konjicu, važna borba za važnu pobjedu"
+    },
+    "shopnovosti":{
+        "novosti":"Novi artikli"
+    },
+    "position":{
+        "pozicija":"10"
+    }
+
+}
